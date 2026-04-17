@@ -357,3 +357,9 @@ class Detect_LSDECD(nn.Module):
         from ultralytics.utils.tal import dist2bbox
 
         return dist2bbox(self.dfl(bboxes), self.anchors.unsqueeze(0), xywh=True, dim=1) * self.strides
+
+
+
+# The first improvement module is an optimized design based on EIEStem, incorporating Channel Attention, SobelConv, and residual connections.
+# The second improvement module consists of SPDConv, OmniKernel, FGM, and CSPOmniKernel.
+# The third improvement module is designed based on the concepts of shared convolution, detail-enhanced deconvolution, decoupled classification and regression, and the DFL-based bounding box regression mechanism.
