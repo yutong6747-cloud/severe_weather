@@ -1,0 +1,10 @@
+# 训练、验证、测试集的绝对路径
+train: D:/桌面/ultralytics-main/severe_weather/train
+val: D:/桌面/ultralytics-main/severe_weather/val
+test: D:/桌面/ultralytics-main/severe_weather/test
+
+# 类别数量
+nc: 2
+
+# 类别名称
+names: ['car', 'person']

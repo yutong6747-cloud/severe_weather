@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: dcnv3_ext
+Version: 1.0
+Summary: DCNv3 compiled CUDA extension
+Author: OpenGVLab
+Dynamic: author
+Dynamic: summary

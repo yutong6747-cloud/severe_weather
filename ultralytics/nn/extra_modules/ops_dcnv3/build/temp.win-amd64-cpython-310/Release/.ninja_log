@@ -1,0 +1,6 @@
+# ninja log v5
+268	582	7744524976879970	D:/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/build/temp.win-amd64-cpython-310/Release/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/src/dcnv3_ext.obj	ff451750dd9bae6c
+12	582	7744524976879970	D:/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/build/temp.win-amd64-cpython-310/Release/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/src/cpu/dcnv3_cpu.obj	c7ba3d6c712c7496
+162	2230	7744524993242313	D:/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/build/temp.win-amd64-cpython-310/Release/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/src/cuda/dcnv3_cuda_kernel.obj	5e35f028c6f19134
+423	9232	7744525063318008	D:/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/build/temp.win-amd64-cpython-310/Release/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/src/vision.obj	42e2d2de383c1bd3
+87	27704	7744525247681242	D:/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/build/temp.win-amd64-cpython-310/Release/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/src/cuda/dcnv3_cuda.obj	834dce29afa52bfa

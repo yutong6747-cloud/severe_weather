@@ -1,0 +1,12 @@
+setup.py
+D:/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/src/vision.cpp
+D:/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/src/cpu/dcnv3_cpu.cpp
+D:/Desktop/ultralytics-yolo11-main/ultralytics/nn/extra_modules/ops_dcnv3/src/cuda/dcnv3_cuda.cu
+dcnv3_ext.egg-info/PKG-INFO
+dcnv3_ext.egg-info/SOURCES.txt
+dcnv3_ext.egg-info/dependency_links.txt
+dcnv3_ext.egg-info/top_level.txt
+functions/__init__.py
+functions/dcnv3_func.py
+modules/__init__.py
+modules/dcnv3.py
