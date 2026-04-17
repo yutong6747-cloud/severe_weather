@@ -24,4 +24,4 @@ Before training, update `cfg/datasets/weather_weather.yaml` to your dataset path
 
 
 
-These codes are directly related to the manuscript you have currently submitted to The Visual Computer.
+These codes are directly related to my currently submitted manuscript to The Visual Computer.
